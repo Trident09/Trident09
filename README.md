@@ -1,7 +1,7 @@
 <h1 align="left">Hi there👋, I'm Trident</h1>
 <h3 align="left">A passionate programmer from India, trying to improve my coding skills.</h3>
 
-- 🌱 I’m currently persuing **BTech Mtech Computer Science And Engineering specialising in Cybersecurity**
+- 🌱 I’m currently persuing **BTech Mtech Computer Science And Engineering** specialising in **Cybersecurity**
 
 - 📫 How to reach me **rupambarui.17@gmail.com**
 
