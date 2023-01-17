@@ -1,32 +1,22 @@
-# Trident09 
+<h1 align="left">Hi there👋, I'm Trident</h1>
+<h3 align="left">A passionate programmer from India, trying to improve my coding skills.</h3>
 
-- <h3>Hello! My name is Rupam Barui.</h3>
-- I'm from India persuing a 5 year integrated course of B. Tech - M. Tech in computer Science and Engineering specializing in Cybersecurity in National Forensic Sciences University and this is my personal GitHub repository. 
-- Here you will find a collection of my projects, experiments, and other code that I've written over the time. Feel free to look around, and if you have any questions, please don't hesitate to reach out.
+- 🌱 I’m currently persuing **BTech Mtech Computer Science And Engineering** specialising in **Cybersecurity**
 
-## Projects
+- 📫 How to reach me **rupambarui.17@gmail.com**
 
-- **Project 1**: A brief description of the project and a link to the repository.
-- **Project 2**: A brief description of the project and a link to the repository.
-- **Project 3**: A brief description of the project and a link to the repository.
+- ⚡ Fun fact **I'm a very hungry learner and I'm very fast at it.**
 
-## Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rupam_barui" target="blank"><img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupam_barui" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rupam-barui-73b415230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupam barui" height="30" width="40" /></a>
+<a href="https://fb.com/rupambarui17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rupambarui17" height="30" width="40" /></a>
+<a href="https://instagram.com/rup.am.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rup.am.i" height="30" width="40" /></a>
+</p>
 
-- **C**: Description of proficiency level
-- **C++**: Description of proficiency level
-- **Java**: Description of proficiency level
-- **Sql**: Description of proficiency level
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-## About Me
 
-A short bio about yourself and your background in programming or related fields.
-
-## Contact
-
-- Email: rupambarui.17@gmail.com
-- LinkedIn: [Rupam Barui](https://www.linkedin.com/in/rupam-barui-73b415230)
-- Twitter: [Rupam Barui](https://twitter.com/rupam_barui)
-
-## Acknowledgments
-
-Shoutouts to anyone who helped you with the project
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trident09&show_icons=true&locale=en" alt="trident09" /></p>
