@@ -2,14 +2,8 @@
 
 ### Hello! My name is Rupam Barui.
 - I'm from India persuing a 5 year integrated course of B. Tech - M. Tech in computer Science and Engineering specializing in Cybersecurity in National Forensic Sciences University and this is my personal GitHub repository. 
+- Aspiring software developer who fell in love with coding during college. Starting with a foundation in C, C++, Java, I am constantly working to improve my skills and build projects that make a difference. Excited to collaborate with others and learn from experienced developers, I am actively seeking new opportunities to challenge myself and grow in this field.
 - Here you will find a collection of my projects, experiments, and other code that I've written over the time. Feel free to look around, and if you have any questions, please don't hesitate to reach out.
-
-## About Me
-
-<div style="display: inline_block">
-  <img align="right" alt="Trident-pic" height="150" style="border-radius:50px;" src="">
-  <p> Aspiring software developer who fell in love with coding during college. Starting with a foundation in C, C++, Java, I am constantly working to improve my skills and build projects that make a difference. Excited to collaborate with others and learn from experienced developers, I am actively seeking new opportunities to challenge myself and grow in this field. </p>
-</div><br>
 
 ## Projects
 
@@ -48,19 +42,22 @@ I'm always looking for ways to improve my projects and help others do the same. 
 
 ## Acknowledgments
 
-Huge shoutout to my talented friends at ***Satyriasis***, who make software development both challenging and fun. Collaborating with this awesome team is a dream come true, and I'm grateful for the opportunity to work with such creative minds.
+Huge shoutout to my talented friends at [***Satyriasis***](https://github.com/Saty-riasis), who make software development both challenging and fun. Collaborating with this awesome team is a dream come true, and I'm grateful for the opportunity to work with such creative minds.
 
 ## Contact
 
 <div style="display: inline-block">
   <a href="mailto:rupambarui.17@gmail.com?subject=[GitHub]" target="_blank">
-    <img align="center" alt="Trident-Mail" height="30" width="40" src="">
+    <img align="center" alt="Trident-Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/rupam-barui-73b415230" target="_blank">
-    <img align="center" alt="Trident-linkedin" height="30" width="40" src="">
+    <img align="center" alt="Trident-linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/rupam_barui" target="_blank">
-    <img align="center" alt="Trident-twitter" height="30" width="40" src="">
+    <img align="center" alt="Trident-twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/rupam_barui" target="_blank">
+    <img align="center" alt="Trident-instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
 
