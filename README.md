@@ -56,7 +56,7 @@ Huge shoutout to my talented friends at [***Satyriasis***](https://github.com/Sa
   <a href="https://twitter.com/rupam_barui" target="_blank">
     <img align="center" alt="Trident-twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/rupam_barui" target="_blank">
+  <a href="https://instagram.com/rup.am.i" target="_blank">
     <img align="center" alt="Trident-instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
