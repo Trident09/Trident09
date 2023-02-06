@@ -33,6 +33,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank">
     <img align="center" alt="Trident-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   </a>
+  <a href="https://kotlinlang.org/docs/home.html" target="_blank">
+    <img align="center" alt="Trident-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  </a>
 </div>
 
 
