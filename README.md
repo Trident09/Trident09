@@ -18,8 +18,11 @@
   <a href="https://isocpp.org/std/the-standard" target="_blank">
     <img align="center" alt="Trident-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   </a>
-  <a href="https://docs.oracle.com/en/java" target="_blank">
-    <img align="center" alt="Trident-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <a href="https://cloud.google.com/docs" target="_blank">
+    <img align="center" alt="Trident-googlecloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+  </a>
+  <a href="https://kotlinlang.org/docs/home.html" target="_blank">
+    <img align="center" alt="Trident-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img align="center" alt="Trident-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -27,14 +30,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img align="center" alt="Trident-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   </a>
+  <a href="https://docs.oracle.com/en/java" target="_blank">
+    <img align="center" alt="Trident-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  </a>
   <a href="https://dev.mysql.com/doc" target="_blank">
     <img align="center" alt="Trident-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank">
     <img align="center" alt="Trident-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  </a>
-  <a href="https://kotlinlang.org/docs/home.html" target="_blank">
-    <img align="center" alt="Trident-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   </a>
 </div>
 
