@@ -11,6 +11,10 @@
 
 ## Skills
 
+> add later
+
+## Have worked with
+
 <div style="display: inline_block">
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
     <img align="center" alt="Trident-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -36,7 +40,13 @@
   <a href="https://dev.mysql.com/doc" target="_blank">
     <img align="center" alt="Trident-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img align="center" alt="Trident-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank">
+    <img align="center" alt="Trident-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="center" alt="Trident-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   </a>
 </div>
