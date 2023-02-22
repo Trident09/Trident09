@@ -5,15 +5,9 @@
 - Aspiring software developer who fell in love with coding during college. Starting with a foundation in C, C++, Java, I am constantly working to improve my skills and build projects that make a difference. Excited to collaborate with others and learn from experienced developers, I am actively seeking new opportunities to challenge myself and grow in this field.
 - Here you will find a collection of my projects, experiments, and other code that I've written over the time. Feel free to look around, and if you have any questions, please don't hesitate to reach out.
 
-## Projects
-
-> add later
-
-## Skills
-
-> add later
-
 ## Have worked with
+
+### Language
 
 <div style="display: inline_block">
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
@@ -21,9 +15,6 @@
   </a>
   <a href="https://isocpp.org/std/the-standard" target="_blank">
     <img align="center" alt="Trident-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  </a>
-  <a href="https://cloud.google.com/docs" target="_blank">
-    <img align="center" alt="Trident-googlecloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
   </a>
   <a href="https://kotlinlang.org/docs/home.html" target="_blank">
     <img align="center" alt="Trident-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
@@ -40,17 +31,32 @@
   <a href="https://dev.mysql.com/doc" target="_blank">
     <img align="center" alt="Trident-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img align="center" alt="Trident-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank">
-    <img align="center" alt="Trident-dot-net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
-  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="center" alt="Trident-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   </a>
 </div>
 
+### Framework
+
+<div style="display: inline_block">
+  <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank">
+    <img align="center" alt="Trident-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+  </a>
+</div>
+
+### Tools
+
+<div style="display: inline_block">
+  <a href="https://cloud.google.com/docs" target="_blank">
+    <img align="center" alt="Trident-googlecloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+  </a>
+  <a href="https://developer.android.com/docs/" target="_blank">
+    <img align="center" alt="Trident-androidstudio" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img align="center" alt="Trident-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  </a>
+</div>
 
 ## Contributions
 
