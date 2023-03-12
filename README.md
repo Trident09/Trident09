@@ -57,13 +57,10 @@
   </a>
 </div>
 
-## Contributions
+## Stats
 
-I'm always looking for ways to improve my projects and help others do the same. If you have any ideas or feedback, feel free to reach out and let me know! And if you'd like to make your own contributions, fork my repositories and start hacking away!
-
-## Acknowledgments
-
-Huge shoutout to my talented friends at [***Satyriasis***](https://github.com/Saty-riasis), who make software development both challenging and fun. Collaborating with this awesome team is a dream come true, and I'm grateful for the opportunity to work with such creative minds.
+<img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=trident09&show_icons=true&theme=transparent&hide_border=true">
+<img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=trident09&show_icons=true&theme=transparent&hide_border=true">
 
 ## Contact
 
