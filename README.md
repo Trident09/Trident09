@@ -6,7 +6,7 @@
 
 ## Spotify
 
-[<img src="https://spotify-nowplaying-five.vercel.app/api/spotify" alt="Trident09's Spotify" width="350">](https://open.spotify.com/user/llefxx3swsd6zjw2szt6kgfap)
+[<img src="https://spotify-nowplaying-five.vercel.app/api/spotify" alt="Trident09's Spotify">](https://open.spotify.com/user/llefxx3swsd6zjw2szt6kgfap)
 
 ## Have worked with
 
