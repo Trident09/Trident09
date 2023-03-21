@@ -8,7 +8,7 @@
 
 [<img src="https://spotify-nowplaying-five.vercel.app/api/spotify" alt="Trident09's Spotify">](https://open.spotify.com/user/llefxx3swsd6zjw2szt6kgfap)
 
-## Have worked with
+## Tech Stack
 
 ### Language
 
@@ -50,6 +50,9 @@
 ### Tools
 
 <div style="display: inline_block">
+  <a href="https://code.visualstudio.com/Docs" target="_blank">
+    <img align="center" alt="Trident-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  </a>
   <a href="https://cloud.google.com/docs" target="_blank">
     <img align="center" alt="Trident-googlecloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
   </a>
@@ -58,6 +61,9 @@
   </a>
   <a href="https://git-scm.com/doc" target="_blank">
     <img align="center" alt="Trident-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank">
+    <img align="center" alt="Trident-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   </a>
 </div>
 
