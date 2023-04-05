@@ -70,7 +70,7 @@
 ## Stats
 
 <img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=trident09&show_icons=true&theme=transparent&hide_border=true">
-<img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=trident09&show_icons=true&theme=transparent&hide_border=true">
+<img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=trident09&show_icons=true&theme=transparent&hide_border=true&layout=compact">
 
 ## Contact
 
