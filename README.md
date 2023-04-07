@@ -37,6 +37,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="center" alt="Trident-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   </a>
+  <a href="https://www.php.net/docs.php" target="_blank">
+    <img align="center" alt="Trident-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  </a>
 </div>
 
 ### Framework
