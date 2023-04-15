@@ -94,11 +94,6 @@
   </a>
 </div>
 
-## Contributions
-
-<div>
-</div>
-
 ## Postscript
 ```
 I use this repository to learn Github operations and actions.
