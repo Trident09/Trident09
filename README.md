@@ -72,8 +72,10 @@
 
 ## Stats
 
-<img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=trident09&show_icons=true&theme=transparent&hide_border=true">
-<img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=trident09&show_icons=true&theme=transparent&hide_border=true&layout=compact">
+<div style="display: inline_block">
+  <img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=trident09&show_icons=true&theme=transparent&hide_border=true">
+  <img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=trident09&show_icons=true&theme=transparent&hide_border=true&layout=compact">
+</div>
 
 ## Contact
 
@@ -90,6 +92,11 @@
   <a href="https://instagram.com/rup.am.i?igshid=MWI4MTIyMDE=" target="_blank">
     <img alt="Trident-instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+</div>
+
+## Contributions
+
+<div>
 </div>
 
 ## Postscript
