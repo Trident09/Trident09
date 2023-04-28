@@ -40,6 +40,9 @@
   <a href="https://www.php.net/docs.php" target="_blank">
     <img align="center" alt="Trident-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
+    <img align="center" alt="Trident-javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  </a>
 </div>
 
 ### Framework
@@ -47,6 +50,12 @@
 <div style="display: inline_block">
   <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank">
     <img align="center" alt="Trident-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+  </a>
+  <a href="https://react.dev" target="_blank">
+    <img align="center" alt="Trident-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  </a>
+  <a href="https://nodejs.org/en/docs" target="_blank">
+    <img align="center" alt="Trident-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   </a>
 </div>
 
