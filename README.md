@@ -77,6 +77,9 @@
   <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank">
     <img align="center" alt="Trident-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img align="center" alt="Trident-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  </a>
 </div>
 
 ## Stats
