@@ -123,8 +123,7 @@
   </a>
 </div>
 
-## Postscript
 ```
-I use this repository to learn Github operations and actions.
+This was my brief overview on myself thanks for taking tehe time to visit my profile :)
 I'm constantly working to improve my skills and knowledge, and I'm excited to see where this journey takes me!
 ```
