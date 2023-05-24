@@ -92,6 +92,20 @@
   <img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=trident09&show_icons=true&theme=transparent&hide_border=true&layout=compact">
 </div>
 
+## Badges
+
+<div style="display: inline_block">
+  <a href="https://www.credly.com/badges/e3d06e38-c669-433d-99d2-6fc279aaefad/public_url" target="_blank">
+    <img align="center" alt="Trident-AWS-Sem 1" height="100" width="100" src="https://images.credly.com/size/680x680/images/973caa5a-e3d1-4616-806f-4c95d5f2ffea/image.png">
+  </a>
+  <a href="https://www.credly.com/badges/1bdc5b78-1ac7-4888-8902-031e4e8190d9/public_url" target="_blank">
+    <img align="center" alt="Trident-AWS-Sem 2" height="100" width="100" src="https://images.credly.com/size/220x220/images/57d758e3-b29e-4d0f-92b0-b4f7e6dabdf2/image.png">
+  </a>
+  <a href="https://www.credly.com/badges/0ec100b4-fe24-4a98-88e3-1880cc7caeb9/public_url" target="_blank">
+    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://images.credly.com/size/680x680/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png">
+  </a>
+</div>
+
 ## Contact
 
 <div style="display: inline-block">
