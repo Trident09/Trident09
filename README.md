@@ -57,6 +57,9 @@
   <a href="https://nodejs.org/en/docs" target="_blank">
     <img align="center" alt="Trident-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img align="center" alt="Trident-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  </a>
 </div>
 
 ### Tools
