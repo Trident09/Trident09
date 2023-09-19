@@ -12,7 +12,7 @@
 
 ### Language
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
     <img align="center" alt="Trident-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   </a>
@@ -47,7 +47,7 @@
 
 ### Framework
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank">
     <img align="center" alt="Trident-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   </a>
@@ -64,7 +64,7 @@
 
 ### Tools
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <a href="https://code.visualstudio.com/Docs" target="_blank">
     <img align="center" alt="Trident-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   </a>
@@ -90,14 +90,14 @@
 
 ## Stats
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=trident09&show_icons=true&theme=transparent&hide_border=true">
   <img alt="Trident09's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=trident09&show_icons=true&theme=transparent&hide_border=true&layout=compact">
 </div>
 
 ## Badges
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <a href="https://www.credly.com/badges/e3d06e38-c669-433d-99d2-6fc279aaefad/public_url" target="_blank">
     <img align="center" alt="Trident-AWS-Sem 1" height="100" width="100" src="https://images.credly.com/size/680x680/images/973caa5a-e3d1-4616-806f-4c95d5f2ffea/image.png">
   </a>
