@@ -83,8 +83,8 @@
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img align="center" alt="Trident-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   </a>
-  <a href="https://www.canva.com" target="_blank">
-    <img align="center" alt="Trident-Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+  <a href="https://firebase.google.com" target="_blank">
+    <img align="center" alt="Trident-Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   </a>
 </div>
 
