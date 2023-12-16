@@ -89,6 +89,9 @@
   <a href="https://firebase.google.com" target="_blank">
     <img align="center" alt="Trident-Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   </a>
+  <a href="https://developer.apple.com/documentation/xcode" target="_blank">
+    <img align="center" alt="Trident-XCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
+  </a>
 </div>
 
 ## Stats
