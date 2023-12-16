@@ -43,6 +43,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
     <img align="center" alt="Trident-javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img align="center" alt="Trident-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  </a>
 </div>
 
 ### Framework
