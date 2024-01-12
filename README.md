@@ -19,9 +19,9 @@
   <a href="https://isocpp.org/std/the-standard" target="_blank">
     <img align="center" alt="Trident-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   </a>
-  <a href="https://kotlinlang.org/docs/home.html" target="_blank">
+<!--   <a href="https://kotlinlang.org/docs/home.html" target="_blank">
     <img align="center" alt="Trident-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  </a>
+  </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img align="center" alt="Trident-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   </a>
@@ -31,15 +31,15 @@
   <a href="https://docs.oracle.com/en/java" target="_blank">
     <img align="center" alt="Trident-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   </a>
-  <a href="https://dev.mysql.com/doc" target="_blank">
+<!--   <a href="https://dev.mysql.com/doc" target="_blank">
     <img align="center" alt="Trident-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="center" alt="Trident-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  </a>
-  <a href="https://www.php.net/docs.php" target="_blank">
+  </a> -->
+<!--   <a href="https://www.php.net/docs.php" target="_blank">
     <img align="center" alt="Trident-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  </a>
+  </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
     <img align="center" alt="Trident-javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </a>
@@ -57,9 +57,9 @@
   <a href="https://react.dev" target="_blank">
     <img align="center" alt="Trident-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   </a>
-  <a href="https://nodejs.org/en/docs" target="_blank">
+<!--   <a href="https://nodejs.org/en/docs" target="_blank">
     <img align="center" alt="Trident-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  </a>
+  </a> -->
   <a href="https://tailwindcss.com" target="_blank">
     <img align="center" alt="Trident-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   </a>
@@ -83,9 +83,9 @@
   <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank">
     <img align="center" alt="Trident-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
+<!--   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img align="center" alt="Trident-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  </a>
+  </a> -->
   <a href="https://firebase.google.com" target="_blank">
     <img align="center" alt="Trident-Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   </a>
