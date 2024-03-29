@@ -72,10 +72,10 @@
     <img align="center" alt="Trident-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   </a>
   <a href="https://cloud.google.com/docs" target="_blank">
-    <img align="center" alt="Trident-googlecloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+    <img align="center" alt="Trident-google-cloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
   </a>
   <a href="https://developer.android.com/docs/" target="_blank">
-    <img align="center" alt="Trident-androidstudio" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="Trident-android-studio" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   </a>
   <a href="https://git-scm.com/doc" target="_blank">
     <img align="center" alt="Trident-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
@@ -113,6 +113,9 @@
   <a href="https://www.credly.com/badges/0ec100b4-fe24-4a98-88e3-1880cc7caeb9/public_url" target="_blank">
     <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://images.credly.com/size/680x680/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png">
   </a>
+  <a href="https://www.credly.com/badges/03ff0bc7-6f58-4da3-90d9-f212da767928/public_url" target="_blank">
+    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png">
+  </a>
 </div>
 
 ## Contact
@@ -122,17 +125,17 @@
     <img alt="Trident-Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/rupam-barui-73b415230" target="_blank">
-    <img alt="Trident-linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img alt="Trident-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/rupam_barui" target="_blank">
     <img alt="Trident-X" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/rup.am.i?igshid=MWI4MTIyMDE=" target="_blank">
-    <img alt="Trident-instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img alt="Trident-Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
 
 ```
-This was my brief overview on myself thanks for taking the time to visit my profile :)
+This was my brief overview of myself thanks for taking the time to visit my profile :)
 I'm constantly working to improve my skills and knowledge, and I'm excited to see where this journey takes me!
 ```
