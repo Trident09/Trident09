@@ -116,6 +116,15 @@
   <a href="https://www.credly.com/badges/03ff0bc7-6f58-4da3-90d9-f212da767928/public_url" target="_blank">
     <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png">
   </a>
+  <a href="https://certificates.isoc.org/fb6de687-ea88-4d92-92f1-507483e00c76#gs.8nmaex" target="_blank">
+    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/101940835">
+  </a>
+  <a href="https://certificates.isoc.org/3ef58235-f4a6-4ec2-8ade-5e297290391d" target="_blank">
+    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102005385">
+  </a>
+  <a href="https://certificates.isoc.org/974833b2-c49a-46e2-99cd-1f3cdcb15859#gs.8nmhr8" target="_blank">
+    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102014490">
+  </a>
 </div>
 
 ## Contact
