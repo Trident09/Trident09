@@ -122,6 +122,9 @@
   <a href="https://certificates.isoc.org/974833b2-c49a-46e2-99cd-1f3cdcb15859#gs.8nmhr8" target="_blank">
     <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102014490">
   </a>
+  <a href="https://certificates.isoc.org/7b8e14d1-6ba4-4fcc-8bab-f0bd5ccadcdb#gs.8rsmym" target="_blank">
+    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102813735">
+  </a>
 </div>
 
 ## Contact
