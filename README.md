@@ -128,8 +128,14 @@
   <a href="https://certificates.isoc.org/e5f3df6b-7802-4191-b2e5-282a1977aa66#gs.8v22kb" target="_blank">
     <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102971442">
   </a>
-  <a href="https://certificates.isoc.org/41e48e45-7129-4483-8c64-b3b2791d8abe#gs.8v0rla" target="_blank">
-    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102972324">
+  <a href="https://certificates.isoc.org/cd6c4647-f605-42f2-a9e1-df4146e1339f#gs.8v1h8x" target="_blank">
+    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102815009">
+  </a>
+  <a href="https://certificates.isoc.org/f397a0a2-19c8-4370-a3ae-fce928d35888#gs.8v1isc" target="_blank">
+    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102972327">
+  </a>
+  <a href="https://certificates.isoc.org/271897f0-caa5-44d2-91ce-7860223d6a0b#gs.8v1mqg" target="_blank">
+    <img align="center" alt="Trident-AWS-ML" height="100" width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102972673">
   </a>
 </div>
 
