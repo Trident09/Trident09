@@ -92,6 +92,9 @@
   <a href="https://developer.apple.com/documentation/xcode" target="_blank">
     <img align="center" alt="Trident-XCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
   </a>
+  <a href="https://docs.jupyter.org/en/latest/" target="_blank">
+    <img align="center" alt="Trident-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+  </a>
 </div>
 
 ## Stats
